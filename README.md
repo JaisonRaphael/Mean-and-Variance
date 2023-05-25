@@ -1,6 +1,6 @@
 #  Ex.1:Mean and variance of a discrete  distribution
-### Name: Akash A
-### Register No.: 212221230003
+### Name: JAISON RAPHAEL.V
+### Register No.: 212221230038
 ### Date:
 # Aim : 
 
