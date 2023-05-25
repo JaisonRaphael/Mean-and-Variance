@@ -1,7 +1,6 @@
 #  Ex.1:Mean and variance of a discrete  distribution
 ### Name: JAISON RAPHAEL.V
 ### Register No.: 212221230038
-### Date:
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -47,7 +46,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 ![image](https://user-images.githubusercontent.com/75260837/196338183-2dc628b1-70fc-43b0-8219-1c6441f92a74.png)
 
-
+# Program :
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
